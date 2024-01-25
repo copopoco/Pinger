@@ -32,14 +32,7 @@ function App() {
     }
   };
 
-  useEffect(() => {
-    // Clean up the interval when the component is unmounted
-    return () => {
-      if (intervalId) {
-        clearInterval(intervalId);
-      }
-    };
-  }, [intervalId]);
+
 
   return (
     <>
