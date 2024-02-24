@@ -1,8 +1,10 @@
-# React + Vite
+# Star Wars Explorer
+This is a React application that allows you to explore information about Star Wars planets and people from the Star Wars API.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Getting Started
+### Prerequisites:
 
-Currently, two official plugins are available:
+- Node.js and npm (or yarn) installed on your system.
+### Installation:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Clone this repository:
