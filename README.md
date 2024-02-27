@@ -1,64 +1,26 @@
-# Star Wars API Explorer
-This is a React application that allows you to explore information about Star Wars planets and people from the Star Wars API.
+<h1 align="center">Hi 👋, I'm Anukul Prakash Saxena</h1>
+<h3 align="center">A lifelong learner from Uttarakhand/India.</h3>
 
-## Getting Started
+- 🔭 I’m currently working on [My Watchlog Project](https://github.com/AnukulSaxena/WatchLog)
 
+- 🌱 I’m currently learning **WebRTC**
 
-### Prerequisites:
+- 👯 I’m looking to collaborate on [Youtube Clone (UI)](https://github.com/AnukulSaxena/yt-clone)
 
-- Node.js and npm (or yarn) installed on your system.
+- 👨‍💻 All of my projects are available at [https://anukulsaxena.netlify.app/](https://anukulsaxena.netlify.app/)
 
+- 💬 Ask me about **React, JavaScript and Node**
 
-### Installation:
+- 📫 How to reach me **anukulsaxena83@gmail.com**
 
-1. Clone this repository:
-```bash
-git clone https://github.com/AnukulSaxena/star-wars-api.git
-```
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qxZb6U8xSYC8ZTx0jWnyppN-0To9GX1m/view?usp=sharing](https://drive.google.com/file/d/1qxZb6U8xSYC8ZTx0jWnyppN-0To9GX1m/view?usp=sharing)
 
-2. Navigate to the project directory:
-```bash
-cd star-wars-api
-```
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/anukulsaxe2566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anukulsaxe2566" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anukul-prakash-saxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anukul-prakash-saxena" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/copopoco71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="copopoco71" height="30" width="40" /></a>
+</p>
 
-3. Install dependencies:
-```bash
-npm install
-```
-
-
-### Running the application:
-
-1. Start the development server:
-```bash
-npm start
-```
-
-2. Open http://localhost:5173 in your browser.
-
-
-### Project Structure
-
-The project is organized into the following directories:
-
-- `src`: Contains components, store, pages, and other source code.
-  - `components`: Contains all small function components.
-  - `store`: Contains Redux store and reducers.
-  - `pages`: Contains React-Router pages.
-  - `App.jsx`: Contains main entry point of the application.
-  - `Main.jsx`: Contains the main routing and rendering logic.
-
-
-### Usage
-
-The application has two main sections: Planets and People.
-
-- Planets: Displays a list of planets with details like name, terrain, climate, and residents. Clicking on a resident button shows information about the residents of that planet.
-- People: Displays a list of people with details like name, birth year, gender, and physical characteristics.
-
-You can navigate between these sections using the header navigation.
-
-
-### Contributing
-
-We welcome contributions to this project. Feel free to fork the repository and submit pull requests with your changes.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
